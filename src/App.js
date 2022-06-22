@@ -1,10 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Banner from "./components/banner";
+import Main from "./components/main";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hi</h1>
+      <Navbar />
+      <Main />
+      <Banner />
     </div>
   );
 }

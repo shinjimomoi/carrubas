@@ -1,0 +1,20 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  height: 68vh;
+  width: 100vw;
+}
+
+.title {
+  padding: 24px;
+  background-color: rgba(30, 30, 30, 0.4);
+  margin: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  .banner {
+    height: 75.4vh;
+  }
+}

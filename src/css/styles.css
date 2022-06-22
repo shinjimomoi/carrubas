@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.224), rgba(0, 0, 0, 0.127)), url("https://source.unsplash.com/kO92FEtU8-E");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  height: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    height: 40px;
+  }
+
+  body {
+    background-position: center;
+  }
+}
