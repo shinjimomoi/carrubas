@@ -1,7 +1,7 @@
 h1, h2, h3, h4, h5, h6, p {
   color: rgb(230, 230, 230);
   font-weight: 400;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Karla', sans-serif;
 }
 
 h1 {
@@ -35,11 +35,9 @@ nav li:hover {
 }
 
 .banner h1 {
-  font-size: 6rem;
-  font-weight: 700;
+  font-weight: 800;
   text-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
   margin-top: 0vh;
-  line-height: 6rem;
 }
 
 @media screen and (max-width: 600px) {
