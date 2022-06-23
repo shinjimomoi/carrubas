@@ -1,7 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.224), rgba(0, 0, 0, 0.127)), url("https://source.unsplash.com/STqHLqMne3k");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: rgb(30, 29, 29);
 }
 
 .logo {
@@ -13,7 +11,4 @@ body {
     height: 40px;
   }
 
-  body {
-    background-position: center;
-  }
 }

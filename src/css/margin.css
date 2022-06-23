@@ -4,6 +4,10 @@
   margin: 0 6vw 0 6vw;
 }
 
+.text-center {
+  text-align: center;
+}
+
 /* Margin */
 
 .mt-1 {

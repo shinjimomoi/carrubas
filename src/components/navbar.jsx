@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/carrubas-simple-white.png'
+import logo from '../images/Carrubas.png'
 
 const Navbar = () => {
   return (
